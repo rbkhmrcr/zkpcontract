@@ -21,3 +21,4 @@ In EC world, we instead have:
 
 To do this in ECC, we're going to have to use some ECC ourselves! So I'll make use of [ecsol](https://github.com/jbaylina/ecsol) (thanks jbaylina).
 
+I think this example is actually going to be very silly because we'll pretty much be proving knowledge of the private key that corresponds to some public key, for a key pair over secp256k1. The reason this is silly is because just signing a message from the account corresponding to that key pair also proves this knowledge. But I guess this is more fun.
