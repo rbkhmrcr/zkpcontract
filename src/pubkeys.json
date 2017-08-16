@@ -1,0 +1,20 @@
+{
+  "pubkeys": [
+    {
+      "x": "ce746180d535e6537f5e76c5990c6f31d5fd9bc9a391af845359553c7c4aab0a",
+      "y": "184a81ce1e9c35ea0532a56cd33cec86d34d0cd47ec83b77ab06826ef1c24cba"
+    },
+    {
+      "x": "140624dfdb416b40701cc1ea391935210c5e04548837e6117af36dfda92fef1c",
+      "y": "2329d2e0c4c0d2330b5841b8bfdd869595e816afb559f6737b0f67881a97fcfa"
+    },
+    {
+      "x": "a51eac7603860e4a8c93befedca343662a63e8381ded3f057ab8562bbe7ad68c",
+      "y": "3d803b3ba3266515158b19120915b166e444d4c6bfd5a47bde816f1bbd0717db"
+    },
+    {
+      "x": "ce2c2b9ffc2733e5063fb7ddb50ec20808724524d2aed0d6a7c6affd64c3abe7",
+      "y": "d0ab8c3fe9638940c22232495c9308dbcbef2b42eecfe4f4f30602918afed41a"
+    }
+  ]
+}
