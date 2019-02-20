@@ -1,4 +1,4 @@
-package main
+pckage main
 
 import (
 	"crypto/rand"
@@ -29,7 +29,7 @@ func Spend(r *big.Int, s *big.Int, msg string, c CurvePoint, cset []CurvePoint) 
 	}
 
 	proofa := SigmaCommit(cprimes, len(cset), l, r)
-	challenge := []byte("i hate life")
+	challenge := []byte("boop boop boop")
 	proofb := SigmaResponse(challenge)
 
 	return proofa, proofb, s
